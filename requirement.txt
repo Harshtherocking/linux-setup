@@ -17,3 +17,5 @@ alacritty
 brightnessctl
 python3.12-venv
 python3-full
+nvtop
+btop
